@@ -6,7 +6,7 @@
 
   <groupId>com.kavitha.examplemaven</groupId>
   <artifactId>new-maven-file-demo</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3-Releases</version>
 
   <name>new-maven-file-demo</name>
   <!-- FIXME change it to the project's website -->
@@ -60,10 +60,11 @@
     </pluginManagement>
   </build>
   <distributionManagement>
+    
     <repository>
-       <id>snapshots</id>
-        <name>snapsshot</name>
-         <url>http://localhost:8081/repository/snapshots/ </url>
+       <id>Releases</id>
+        <name>Releases</name>
+         <url>http://localhost:8081/repository/Releases/ </url>
    </repository>  
     
     
