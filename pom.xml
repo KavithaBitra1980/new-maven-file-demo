@@ -70,7 +70,6 @@
        <id>newmavenrepo-snapshots</id>
         <name>snapshots</name>
          <url>http://localhost:8081/repository/snapshots/ </url>
-      </repository> </url>
-    </SnapshotRepository>
+   </SnapshotRepository>
   </distributionManagement>
 </project>
