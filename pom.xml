@@ -62,7 +62,7 @@
   <distributionManagement>
     <repository>
        <id>MavenRepo-kk</id>
-        <name>snapshots</name>
+        <name>MavenRepo-kk</name>
          <url>http://localhost:8081/repository/snapshots/ </url>
    </repository>  
     
