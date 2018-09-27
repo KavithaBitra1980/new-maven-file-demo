@@ -59,7 +59,7 @@
       </plugins>
     </pluginManagement>
   </build>
-  <disributionManagement>
+  <distributionManagement>
       <repository>
         <id>newmavenrepo</id>
         <name>MavenRepo-kk>
@@ -71,5 +71,5 @@
           <url>http://localhost:8081/repository/snapshots/</url>
       </repository>
         
-</disributionManagement>
+</distributionManagement>
 </project>
