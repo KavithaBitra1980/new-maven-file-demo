@@ -66,10 +66,6 @@
          <url>http://localhost:8081/repository/snapshots/ </url>
    </repository>  
     
-    <snapshotRepository>
-       <id>snapshots</id>
-        <name>snapshots</name>
-         <url>http://localhost:8081/repository/snapshots/ </url>
-   </snapshotRepository>
+    
   </distributionManagement>
 </project>
