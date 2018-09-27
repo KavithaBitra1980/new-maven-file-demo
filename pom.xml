@@ -61,7 +61,7 @@
   </build>
   <distributionManagement>
     <repository>
-       <id>snapshot</id>
+       <id>snapshots</id>
         <name>snapsshot</name>
          <url>http://localhost:8081/repository/snapshots/ </url>
    </repository>  
