@@ -62,12 +62,12 @@
   <distributionManagement>
       <repository>
         <id>newmavenrepo</id>
-        <name>MavenRepo-kk>
+        <name>MavenRepo-kk</name>
           <url>http://localhost:8081/repository/MavenRepo-kk/</url>
       </repository>
       <repository>
         <id>newmavenrepo</id>
-        <name>snapshots>
+        <name>snapshots</name>
           <url>http://localhost:8081/repository/snapshots/</url>
       </repository>
         
