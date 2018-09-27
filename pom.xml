@@ -64,12 +64,12 @@
     <repository>
        <id>Releases</id>
         <name>Releases</name>
-         <url>http://localhost:8081/repository/Releases/ </url>
+         <url>http://192.168.1.203:8081/repository/Releases/ </url>
    </repository>  
     <snapshotRepository>
        <id>snapshots</id>
         <name>snapshots</name>
-         <url>http://localhost:8081/repository/snapshots/ </url>
+         <url>http://192.168.1.203:8081/repository/snapshots/ </url>
    </snapshotRepository>  
     
     
